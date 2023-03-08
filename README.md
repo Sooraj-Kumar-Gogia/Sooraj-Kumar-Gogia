@@ -9,8 +9,8 @@
 
 <br><br>
 🚀 Let's connect and create amazing digital experiences together!<br>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin-icon" style="width:35px; height:35px" href="https://linkedin.com/in/meetsoorajkumar"/>
-<img src="https://seeklogo.com//images/F/facebook-logo-966BBFBC34-seeklogo.com.png" alt="facebook-icon" style="width:35px; height:35px" href="https://facebook.com/sooraj-kumar-gogia"/>
+<a href="https://linkedin.com/in/meetsoorajkumar" ><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin-icon" style="width:35px; height:35px"/></a> <a href="https://facebook.com/sooraj-kumar-gogia"><img src="https://seeklogo.com//images/F/facebook-logo-966BBFBC34-seeklogo.com.png" alt="facebook-icon" style="width:35px; height:35px"/></a> <a href="https://sooraj-kumar-gogia.github.io/portfolio/"><img src="https://icons-for-free.com/download-icon-high+quality+social+social+media+square+website+www+icon-1320192619856305568_512.png" alt="web-icon" style="width:35px; height:35px"/></a> <a href="https://twitter.com/sooraj_gogia"><img src="https://cdn-icons-png.flaticon.com/512/3938/3938028.png" alt="twitter-icon" style="width:35px; height:35px" /></a> <a href="mailto: surajgogia074@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail-icon" style="width:35px; height:35px"/></a>
+
 
 
 
