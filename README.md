@@ -1,4 +1,5 @@
-<h1 style="align-items: center; text-align: center">👋 Hi there! I am Sooraj Kumar, a Frontend Developer with a passion for building beautiful and functional websites and mobile apps😃</h1>
+<h1 style=" text-align: center;">👋 Hi there! I am Sooraj Kumar</h1>
+<h2> I am a Frontend Developer with a passion for building beautiful and functional websites and Mobile Apps😃</h2>
 
 💻 My expertise includes HTML, CSS, JavaScript, Reactjs, and React Native. <br>
 📱 I am particularly interested in MERN Stack Development (web apps & mobile apps as well). <br>
